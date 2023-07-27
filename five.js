@@ -21,18 +21,23 @@ readData.question('Enter operator ( +, -, * or / ): ', (operator) => {
 
             if (operator === '+') {
                 res = num1 + num2;
-            } else if (operator === '-') {
+            }
+            else if (operator === '-') {
                 res = num1 - num2;
-            } else if (operator === '*') {
+            }
+            else if (operator === '*') {
                 res = num1 * num2;
-            } else if (operator === '/') {
+            }
+            else if (operator === '/') {
                 if (num2 === 0) {
                     console.log('Error: Cannot divide by zero.');
                     res = NaN;
-                } else {
+                }
+                else {
                     res = num1 / num2;
                 }
-            } else {
+            }
+            else {
                 console.log('Error: Invalid operator.');
                 res = NaN;
             }
