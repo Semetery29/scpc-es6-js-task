@@ -12,6 +12,6 @@ const add = array => {
 }
 const numbers = [2, -5, 10, -3, 7];
 
-const result = add(numbers);
+const res = add(numbers);
 
-console.log(result);
+console.log(res);

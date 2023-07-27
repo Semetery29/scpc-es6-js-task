@@ -31,4 +31,4 @@ const n = data.length;
 
 const result = frequent(data, n);
 
-console.log(result);
+console.log(res);
