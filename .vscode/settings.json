@@ -1,8 +1,0 @@
-{
-    "workbench.editor.decorations.badges": true,
-    "workbench.editor.decorations.colors": true,
-    "explorer.decorations.badges": true,
-    "explorer.decorations.colors": true,
-    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
-    "terminal.integrated.shellIntegration.enabled": true
-}
