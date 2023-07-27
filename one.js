@@ -19,6 +19,6 @@ const reverse = input => {
 
 const info = "Hello World";
 
-const user = reverse(info);
+const output = reverse(info);
 
-console.log(user);
+console.log(output);
